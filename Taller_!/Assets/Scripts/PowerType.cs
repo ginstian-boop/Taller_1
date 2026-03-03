@@ -1,13 +1,12 @@
 using UnityEngine;
 
-public class PowerType : MonoBehaviour
-{
-s    vida, 
-    speed, 
-    shield, 
-    damage, 
-}
 
+public enum PowerType
+{
+    vida,
+    speed,
+    shield,
+    damage
 }
 
 
